@@ -1,0 +1,11 @@
+import turtle
+turtle.fillcolor("red") 
+turtle.begin_fill()         
+turtle.penup()
+turtle.goto(-60,0)
+turtle.pendown()
+turtle.goto(-60,160)
+turtle.goto(240,160)
+turtle.goto(240,0)
+turtle.goto(-60,0)
+turtle.end_fill()
