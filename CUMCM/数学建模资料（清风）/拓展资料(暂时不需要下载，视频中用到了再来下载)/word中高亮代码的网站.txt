@@ -1,0 +1,7 @@
+代码高亮的网站不支持火狐浏览器，请换成谷歌浏览器或者自带的浏览器
+（1）https://c.runoob.com/front-end/5536/
+（1）http://codeinword.com/   （推荐这个）
+（2）https://paste.ubuntu.com/  （这个需要注册，不太推荐）
+（3）http://www.planetb.ca/syntax-highlight-word（貌似用不了了）
+
+如果上面都打不开，那么可以直接百度搜索《代码高亮网站》，可以查到新的网站。
