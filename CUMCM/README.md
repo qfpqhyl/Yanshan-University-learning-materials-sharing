@@ -1,9 +1,9 @@
 # 关于我的一些数学建模经验分享
-> 2023年10月11号，河北省公布了今年的数学建模比赛成绩。本人很荣幸，能够获得省赛一等奖。以下经验并不是你获奖的主要因素，如为获奖，请勿埋怨本人，毕竟一千个人一千个哈姆雷特，每个人和每个人的经验并不能一概而论。祝你顺利！
+> 2023年10月11号，河北省公布了今年的数学建模比赛成绩。本人很荣幸，能够获得省赛一等奖。以下经验并不是你获奖的主要因素，如未获奖，请勿埋怨本人，毕竟一千个人一千个哈姆雷特，每个人和每个人的经验并不能一概而论。祝你顺利！
 
 ### 资料
 
-[清风数学建模](https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N)：本人用的是清风的数学建模课，这门课他售价59元（可能，记不太清了），不过在YouTube上也有[盗版视频](https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N)。当人本人支持正版，并且已经早早购入。如果说你不能太顺利的访问互联网的话，本人建议正版购入。其相关资料已经上传到本Repository，请酌情使用。
+[清风数学建模](https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N)：本人用的是清风的数学建模课，这门课他售价59元（可能，记不太清了），不过在YouTube上也有[盗版视频](https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N)。当然本人支持正版，并且已经早早购入。如果说你不能太顺利的访问互联网的话，本人建议正版购入。其相关资料已经上传到本Repository，请酌情使用。
 
 [Google学术](https://scholar.google.com)：如果说你能顺利访问Google学术的话，自然最好不过。否则，请到Github中搜索Google镜像。
 
