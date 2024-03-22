@@ -7,7 +7,9 @@
 
 [Google学术](https://scholar.google.com)：如果说你能顺利访问Google学术的话，自然最好不过。否则，请到Github中搜索Google镜像。
 
-[New Bing](https://www.bing.com/new)：免费试用GPT4的New Bing，对于数学建模中语文建模的部分或者文字描述部分有着很好的有效性。你需要做的是学会如何写出好的prompt以让AI更好的生成出你想要的内容。
+[New Bing](https://copilot.microsoft.com/)：免费试用GPT4的New Bing，对于数学建模中语文建模的部分或者文字描述部分有着很好的有效性。你需要做的是学会如何写出好的prompt以让AI更好的生成出你想要的内容。
+
+[Github Copilot](https://github.com/features/copilot)：Github Assistant可以帮助我们更好的编写代码，不过通过学生认证去免费使用有些困难，你可以去网上搜索相关经验，或者使用阿里系的通义灵码。
 
 [超星大雅](https://dsa.dayainfo.com/)：如果你有学习通账号并且不下载查重报告的情况下，你可以在此网站进行免费查重。
 
